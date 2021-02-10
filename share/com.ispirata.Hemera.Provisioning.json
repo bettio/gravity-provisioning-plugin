@@ -1,0 +1,13 @@
+{
+    "interface": "com.ispirata.Hemera.Provisioning",
+    "version_major": 1,
+    "version_minor": 0,
+    "type": "datastream",
+    "quality": "consumer",
+    "mappings": [
+        {
+            "path": "/installRPMUrl",
+            "type": "string"
+        }
+    ]
+}

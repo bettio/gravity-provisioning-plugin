@@ -1,0 +1,13 @@
+{
+    "interface": "com.ispirata.Hemera.Provisioning.Events",
+    "version_major": 1,
+    "version_minor": 0,
+    "type": "datastream",
+    "quality": "producer",
+    "mappings": [
+        {
+            "path": "/installRPMUrlEvent",
+            "type": "string"
+        }
+    ]
+}
